@@ -4,4 +4,4 @@
 I've got this silly wee YouTube channel called [HaxorTechTones](https://www.youtube.com/@HaxorTechTones). I occasionally share hacking demo videos using custom vulnerable setups. This repo contains the example code and commands for anyone who wants to experiment with them.
 
 ## Contents:
- - Command Injection lab: Detecting and exploiting command injections in GET url parameters, POST request body parameters, Header values, Cookie values and Path variables -> https://www.youtube.com/watch?v=RlM6gO_GoHo
+ - **Command Injection lab**: Detecting and exploiting command injections in GET url parameters, POST request body parameters, Header values, Cookie values and Path variables -> https://www.youtube.com/watch?v=RlM6gO_GoHo
