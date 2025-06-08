@@ -1,3 +1,17 @@
+## nRF24L01 / CC1101 
+How to connect:
+
+| Module | Stick C |
+|---|---|
+| 1. GND  | GND |
+| 2. VCC  | 3V3 |
+| 3. CE  | G36 |
+| 4. CSN  | G26 |
+| 5. SCK  | G0  |
+| 6. MOSI  | G32 |
+| 7. MISO  | G33 |
+| 8. IRO  | - |
+
 ## Frequency Band Table with Device Compatibility
 To understand which modules are compatible with which frequency bands (Generated with ChatGPT):
 
